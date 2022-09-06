@@ -13,17 +13,17 @@
 
 ## :pushpin: Pined Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OscarTinajero117&repo=rfc_sat_web_scraping&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/OscarTinajero117/rfc_sat_web_scraping)
+[![Readme Card](https://github-readme-stats-gh6pze3y7-oscartinajero117.vercel.app/api/pin/?username=OscarTinajero117&repo=rfc_sat_web_scraping&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/OscarTinajero117/rfc_sat_web_scraping)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OscarTinajero117&repo=Internet-de-las-cosas_IoT&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/OscarTinajero117/Internet-de-las-cosas_IoT)
+[![Readme Card](https://github-readme-stats-gh6pze3y7-oscartinajero117.vercel.app/api/pin/?username=OscarTinajero117&repo=Internet-de-las-cosas_IoT&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/OscarTinajero117/Internet-de-las-cosas_IoT)
 
 <br>
 
 ## :bar_chart: GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarTinajero117&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&count_private=true)
+![Top Langs](https://github-readme-stats-gh6pze3y7-oscartinajero117.vercel.app/api/top-langs/?username=OscarTinajero117&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&count_private=true)
 
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarTinajero117&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&show_icons=true&count_private=true)
+![Oscar's GitHub stats](https://github-readme-stats-gh6pze3y7-oscartinajero117.vercel.app/api?username=OscarTinajero117&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&show_icons=true&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OscarTinajero117&background=082032&dates=ffffff&ring=F7DF1E&fire=F7DF1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff006c&sideLabels=ff006c&hide_border=true)](https://git.io/streak-stats)
 
