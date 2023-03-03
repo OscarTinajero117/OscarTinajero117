@@ -15,6 +15,8 @@
 
 [![Readme Card](https://github-readme-stats-lisa6g8w1-oscartinajero117.vercel.app/api/pin/?username=OscarTinajero117&repo=rfc_sat_web_scraping&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/OscarTinajero117/rfc_sat_web_scraping)
 
+[![Readme Card](https://github-readme-stats-lisa6g8w1-oscartinajero117.vercel.app/api/pin/?username=OscarTinajero117&repo=sat_scraping&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/OscarTinajero117/sat_scraping)
+
 [![Readme Card](https://github-readme-stats-lisa6g8w1-oscartinajero117.vercel.app/api/pin/?username=OscarTinajero117&repo=Internet-de-las-cosas_IoT&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/OscarTinajero117/Internet-de-las-cosas_IoT)
 
 <br>
