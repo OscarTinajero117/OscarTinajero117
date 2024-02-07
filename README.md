@@ -1,84 +1,52 @@
-![Banner Oscar](/assets/banner.png)
+<h1 align="center">Hi 👋, I'm Oscar Tinajero</h1>
+<h3 align="center">A passionate software developer from México</h3>
 
-[![Twitter profile](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/117Tinajero)
-[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-isaac-tinajero-maldonado-48b61b199/)
-[![Facebook profile](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/oscar.tinajero.117)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oscartinajero117&label=Profile%20views&color=0e75b6&style=flat" alt="oscartinajero117" /> </p>
 
-<p>👋 Hey there</p>
+<!-- [![](https://visitcount.itsvg.in/api?id=OscarTinajero117&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-<p>I'm Oscar, a flutter development</p>
-:mexico:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscartinajero117" alt="oscartinajero117" /></a> </p>
 
-<br>
+- 🔭 I’m currently working on [sat_scraping](https://github.com/OscarTinajero117/sat_scraping)
 
-## :pushpin: Pined Repositories
+- 🌱 I’m currently learning **Elixir, Phoenix Framework, Ethical Hacking, Flutter, Vim, Bash, Typing**
 
-[![Readme Card](https://github-readme-stats-lisa6g8w1-oscartinajero117.vercel.app/api/pin/?username=OscarTinajero117&repo=rfc_sat_web_scraping&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/OscarTinajero117/rfc_sat_web_scraping)
+- 👯 I’m looking to collaborate on [openpay_bbva](https://github.com/FMarcelFC/openpay_bbva)
 
-[![Readme Card](https://github-readme-stats-lisa6g8w1-oscartinajero117.vercel.app/api/pin/?username=OscarTinajero117&repo=sat_scraping&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/OscarTinajero117/sat_scraping)
+- 🤝 I’m looking for help with [sat_scraping](https://github.com/OscarTinajero117/sat_scraping)
 
-[![Readme Card](https://github-readme-stats-lisa6g8w1-oscartinajero117.vercel.app/api/pin/?username=OscarTinajero117&repo=Internet-de-las-cosas_IoT&bg_color=082032&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff006c)](https://github.com/OscarTinajero117/Internet-de-las-cosas_IoT)
+- 💬 Ask me about **PHP, Flutter, Phoenix Framework (LiveView) and JAVA**
 
-<br>
+- 📫 How to reach me **<tinajero117.oscar@gmail.com>**
 
-## :bar_chart: GitHub Stats
+- 📄 Know about my experiences [https://www.linkedin.com/in/oscartinajero117/](https://www.linkedin.com/in/oscartinajero117/)
 
-![Top Langs](https://github-readme-stats-lisa6g8w1-oscartinajero117.vercel.app/api/top-langs/?username=OscarTinajero117&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&count_private=true)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/oscartinajero117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/oscartinajero117" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/oscartinajero117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oscartinajero117/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@oscartinajero117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@oscartinajero117" height="30" width="40" /></a>
+</p>
 
-![Oscar's GitHub stats](https://github-readme-stats-lisa6g8w1-oscartinajero117.vercel.app/api?username=OscarTinajero117&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&show_icons=true&count_private=true)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OscarTinajero117&background=082032&dates=ffffff&ring=F7DF1E&fire=F7DF1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff006c&sideLabels=ff006c&hide_border=true)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscartinajero117&show_icons=true&locale=en&layout=compact" alt="oscartinajero117" /></p>
 
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscartinajero117&show_icons=true&locale=en" alt="oscartinajero117" /></p>
 
-## :computer: Skills
-### Front
-![HTML](https://img.shields.io/badge/Hypertext-HTML-informational?style=flat&logo=html5&logoColor=white&color=f06529&labelColor=082032)
-![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=264de4&labelColor=082032)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E&labelColor=082032)
-![Flutter](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B&labelColor=082032)
-### Back
-![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=0175C2&labelColor=082032)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4&labelColor=082032)
-### Database
-![MySQL](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00000F&labelColor=082032)
-![SQLite](https://img.shields.io/badge/SQL-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=07405E&labelColor=082032)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscartinajero117&" alt="oscartinajero117" /></p>
 
-<br>
+### 🔝 Top Contributed Repo
 
-## :books: More Skills
+![](https://github-contributor-stats.vercel.app/api?username=OscarTinajero117&limit=5&theme=default&combine_all_yearly_contributions=true)
 
-![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717&labelColor=082032)
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=E44C30&labelColor=082032)
-### Office
-![Excel](https://img.shields.io/badge/Office-Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=217346&labelColor=082032)
-![Word](https://img.shields.io/badge/Office-Word-informational?style=flat&logo=microsoft-word&logoColor=white&color=2B579A&labelColor=082032)
-![Power Point](https://img.shields.io/badge/Office-PowerPoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=B7472A&labelColor=082032)
+### ✍️ Random Dev Quote
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
+### 😂 Random Dev Meme
 
-> ### _"For what is a man, what has he got?_
-> ### _If not himself, then he has naught_
-> ### _To say the things he truly feels_
-> ### _And not the words of one who kneels_
-> ### _The record shows I took the blows_
-> ### _And did it my way"_ 
-> ### _May way, Frank Sinatra_ 
-      
-<!-- página para los favicons https://dev.to/envoy_/150-badges-for-github-pnk -->
-<!-- página para badges-->
-<!--
-**OscarTinajero117/OscarTinajero117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
