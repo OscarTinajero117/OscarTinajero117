@@ -1,46 +1,101 @@
-<h1 align="center">Hi 👋, I'm Oscar Tinajero</h1>
-<h3 align="center">A passionate software developer from México</h3>
+<div align="right">
+  <a href="README_ES.md">
+    <img alt="Spanish" src="https://img.shields.io/badge/Espa%C3%B1ol-ES-E52B50?style=for-the-badge">
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oscartinajero117&label=Profile%20views&color=0e75b6&style=flat" alt="oscartinajero117" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Oscar+Tinajero;Software+Engineer;Full+Stack+Developer;Mobile+Developer" alt="Typing SVG" />
+</h1>
 
-<!-- [![](https://visitcount.itsvg.in/api?id=OscarTinajero117&icon=0&color=0)](https://visitcount.itsvg.in) -->
+<h3 align="center">A passionate Systems Engineer and Software Developer from Ciudad Valles, San Luis Potosí, México 🇲🇽</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscartinajero117" alt="oscartinajero117" /></a> </p>
-
-- 🔭 I’m currently working on [Soluciones Nerus](https://github.com/solunerus)
-
-- 🌱 I’m currently learning **Elixir, Phoenix Framework, Ethical Hacking, Flutter, Vim, Bash, Typing**
-
-- 🤝 I’m looking for help with [sat_scraping](https://github.com/OscarTinajero117/sat_scraping)
-
-- 💬 Ask me about **PHP, Flutter, Phoenix Framework (LiveView) and JAVA**
-
-- 📫 How to reach me **<tinajero117.oscar@gmail.com>**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/oscartinajero117/](https://www.linkedin.com/in/oscartinajero117/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/oscartinajero117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/oscartinajero117" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/oscartinajero117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oscartinajero117/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@oscartinajero117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@oscartinajero117" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oscartinajero117&label=Profile%20views&color=0e75b6&style=flat" alt="oscartinajero117" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscartinajero117&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="oscartinajero117" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oscartinajero117&show_icons=true&locale=en&layout=compact" alt="oscartinajero117" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscartinajero117&show_icons=true&locale=en" alt="oscartinajero117" /></p>
+I am an Engineer with over 4 years of experience in the full lifecycle of scalable application development. I specialize in building robust backend architectures with Elixir (Phoenix Framework) and high-performance mobile solutions with Flutter. Currently, I am exploring the implementation of AI Agents and automation with n8n, while pursuing a Master's degree in Education.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscartinajero117&" alt="oscartinajero117" /></p>
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=OscarTinajero117&limit=5&theme=default&combine_all_yearly_contributions=true)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🔭 **Currently working at:** [Soluciones Nerus](https://solucionesnerus.com) as a Software Engineer, leading projects such as ERP systems, WhatsApp API integrations with n8n, and mobile apps in Flutter. I also work as a University Professor in IT and Programming areas.
+- 🌱 **Currently learning:** AI Agents implementation and advanced automations.
+- 🎓 **Currently pursuing:** Master's degree in Education.
+- 💬 **Ask me about:** Elixir, Phoenix Framework, Flutter, and scalable architectures.
+- 📫 **How to reach me:** oscar@tinajerotech.com
 
 ---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="VueJS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Phoenix_LiveView-FD4F00?style=for-the-badge&logo=elixir&logoColor=white" alt="LiveView" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" />
+  <img src="https://img.shields.io/badge/Phoenix_Framework-FD4F00?style=for-the-badge&logo=elixir&logoColor=white" alt="Phoenix Framework" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### Mobile
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
+### Databases & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Cloudflare_Tunnels-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+### AI & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Llama_Ecosystem-043B72?style=for-the-badge&logo=meta&logoColor=white" alt="Llama Ecosystem" />
+  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Cloud API" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oscartinajero117&show_icons=true&locale=en&theme=nord&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9&icon_color=38B2AC" alt="GitHub Stats" />
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oscartinajero117&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=C9D1D9" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="https://mx.linkedin.com/in/oscartinajero117" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://tinajerotech.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:oscar@tinajerotech.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
