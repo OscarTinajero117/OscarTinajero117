@@ -12,7 +12,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oscartinajero117&label=Profile%20views&color=0e75b6&style=flat" alt="oscartinajero117" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscartinajero117&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="oscartinajero117" /></a>
 </p>
 
 ---
@@ -21,7 +20,7 @@
 
 I am an Engineer with over 4 years of experience in the full lifecycle of scalable application development. I specialize in building robust backend architectures with Elixir (Phoenix Framework) and high-performance mobile solutions with Flutter. Currently, I am exploring the implementation of AI Agents and automation with n8n, while pursuing a Master's degree in Education.
 
-- 🔭 **Currently working at:** [Soluciones Nerus](https://solucionesnerus.com) as a Software Engineer, leading projects such as ERP systems, WhatsApp API integrations with n8n, and mobile apps in Flutter. I also work as a University Professor in IT and Programming areas.
+- 🔭 **Currently working at:** [Soluciones Nerus](https://arquoscrm.com) as a Software Engineer, leading projects such as ERP systems, WhatsApp API integrations with n8n, and mobile apps in Flutter. I also work as a University Professor in IT and Programming areas.
 - 🌱 **Currently learning:** AI Agents implementation and advanced automations.
 - 🎓 **Currently pursuing:** Master's degree in Education.
 - 💬 **Ask me about:** Elixir, Phoenix Framework, Flutter, and scalable architectures.
