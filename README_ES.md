@@ -10,10 +10,6 @@
 
 <h3 align="center">Un apasionado Ingeniero en Sistemas y Desarrollador de Software de Ciudad Valles, San Luis Potosí, México 🇲🇽</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oscartinajero117&label=Vistas%20de%20Perfil&color=0e75b6&style=flat" alt="oscartinajero117" />
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mí
